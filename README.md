@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [NIRVANA](https://github.com/RealKeithGregory/nirvana)
 
-- 🌱 I’m currently learning **react**
-
-- 👨‍💻 All of my projects are available at [https://keithgregory.netlify.app](https://keithgregory.netlify.app)
+- 👨‍💻 My recent projects are available at [https://keithgregory.netlify.app](https://keithgregory.netlify.app)
 
 - 💬 Ask me about **javascript, html, and css**
 
