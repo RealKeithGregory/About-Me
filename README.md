@@ -43,12 +43,8 @@ I write about what I’m learning and building in AI engineering, including impl
 
 🌐 **Portfolio & Technical Writing:** [keithgregory.vercel.app](https://keithgregory.vercel.app)
 
-## 🌐 Connect
+## 🌐 Let's Talk!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devkeithgregory)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DevKeithGregory)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kmgiigithub@gmail.com)
-
-## 📊 GitHub
-
-![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkeithgregory&theme=vision-friendly-dark&hide_border=true&show_icons=true)
